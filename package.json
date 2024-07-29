@@ -8,7 +8,7 @@
     "@fitbit/sdk-cli": "^1.7.3"
   },
   "fitbit": {
-    "appUUID": "132752c6-12bf-4cc0-916e-fc9ac395c471",
+    "appUUID": "b3f62d75-ff82-40a9-adbb-33dc87440a77",
     "appType": "app",
     "appDisplayName": "Trading Notification",
     "iconFile": "resources/icon.png",
